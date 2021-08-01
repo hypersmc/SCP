@@ -1,0 +1,6 @@
+name: Scpminigame
+version: ${project.version}
+main: scp_minigame.scpminigame.Main
+api-version: 1.13
+authors: [ HypersMC, JumpWatch ]
+description: The SCP (Secure, Contain, Protect) Foundation is a top secret foundation where anomalies around the world are contained. A breach at site 19 have occurred! Over 10 Diffrent types of SCP's have escaped and you need to contain them again!

@@ -1,0 +1,21 @@
+#You can set the prefix as you would like.
+prefix: "&8[&l&4SCP&r&8]&r"
+
+#Bungee function (If enabled it will try to return to previous server otherwise fallback server)
+usebungee: false
+fallback: hub
+
+#Webserver for texturepack
+port: 25703
+url: play.yourdomain.com
+file: texturepack.zip
+fullurl: "http://play.yourdomain.com:25703/texturepack.zip"
+#The texturepack are put into the "web" folder
+#D Class, C Class, Containment Specialist, Security Officer and Tactical Response Officer
+Blinking_interval: 4 #in seconds
+
+#You can enable or disable SCPs
+#This includes configs for the SCPs
+#SCP173:
+
+#SCP
